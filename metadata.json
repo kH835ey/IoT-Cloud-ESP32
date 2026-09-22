@@ -1,0 +1,6 @@
+{
+  "name": "Blynk IoT Cloud Console & ESP32 Hub",
+  "description": "Full-stack IoT Cloud Console (Blynk.Cloud style) for real-time ESP32 monitoring, bidirectional relay control, sensor telemetry, and Arduino C++ firmware generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

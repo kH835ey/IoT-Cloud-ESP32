@@ -1,0 +1,30 @@
+{
+  "collections": {
+    "devices": {
+      "description": "Information about hardware devices",
+      "documents": {
+        "dev_smart_irrigation": {
+          "name": "Smart Agriculture",
+          "nameKhmer": "កសិកម្មឌីជីថល",
+          "templateId": "TMPL6BUNdn49f",
+          "authToken": "8928313450:AAEvmTZMGGDXRJZ-W1ZuE2vc5AlVSQ5oDbY",
+          "pins": {
+            "V0": { "label": "Agricultural Water Pump", "value": 0 },
+            "V1": { "label": "Soil Moisture", "value": 0 },
+            "V2": { "label": "Atmospheric Temperature", "value": 0 },
+            "V3": { "label": "Auto Irrigation Mode", "value": 0 },
+            "V4": { "label": "Solar Light Level", "value": 0 },
+            "V6": { "label": "Air Humidity", "value": 0 },
+            "V7": { "label": "Solar Angle Tracking", "value": 90 }
+          },
+          "lastSeen": "2026-08-20T03:10:00Z",
+          "status": "online"
+        }
+      }
+    },
+    "sensor_logs": {
+      "description": "Historical logs of sensor data",
+      "documents": {}
+    }
+  }
+}
